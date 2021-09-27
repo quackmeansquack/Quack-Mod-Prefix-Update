@@ -1,0 +1,17 @@
+{
+  "users": {
+    "472119520849297438": {
+      "rolename": "MORTAL",
+      "channelname": "welcomes-leaves",
+      "muterole": 1,
+      "unmuterole": "MORTAL",
+      "consolechannel": "yeet"
+    },
+    "482635592065089536": {
+      "muterole": "muted",
+      "consolechannel": "bot-logs",
+      "rolename": "Mortals",
+      "channelname": "welcomes-leaves"
+    }
+  }
+}
